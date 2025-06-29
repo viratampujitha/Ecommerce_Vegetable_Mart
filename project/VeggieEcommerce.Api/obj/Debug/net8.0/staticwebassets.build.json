@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ChNIMqpC9qjjxmuzUE8pxJBnI217ScygNXer6DnFxSw=",
+  "Source": "VeggieEcommerce.Api",
+  "BasePath": "_content/VeggieEcommerce.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
